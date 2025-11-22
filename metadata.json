@@ -1,0 +1,7 @@
+{
+  "name": "SnapMap",
+  "description": "A social-media inspired restaurant tracker. Upload screenshots from Reels or Shorts to automatically extract and map restaurant locations in Korea and Japan using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
